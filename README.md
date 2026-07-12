@@ -9,10 +9,9 @@
 ### 🌐 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-amitmehta0716-181717?style=for-the-badge\&logo=github)](https://github.com/amitmehta0716)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge\&logo=leetcode)](YOUR_LEETCODE)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge\&logo=geeksforgeeks)](YOUR_GFG)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge\&logo=hackerrank)](YOUR_HACKERRANK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/amit-mehta-547155304/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge\&logo=leetcode)](https://leetcode.com/u/amit_mehta_/)
+
 
 </div>
 
@@ -188,15 +187,15 @@
 
 🐙 **GitHub:** https://github.com/amitmehta0716
 
-💼 **LinkedIn:** YOUR_LINKEDIN
+💼 **LinkedIn:** https://www.linkedin.com/in/amit-mehta-547155304/
 
-💻 **LeetCode:** YOUR_LEETCODE
+💻 **LeetCode:** https://leetcode.com/u/amit_mehta_/
 
-🟢 **GeeksforGeeks:** YOUR_GFG
+🟢 **GeeksforGeeks:** https://www.geeksforgeeks.org/profile/amitmeh3qxc
 
-🟩 **HackerRank:** YOUR_HACKERRANK
+🟩 **HackerRank:** https://www.hackerrank.com/profile/amitmehta0716
 
-📧 **Email:** YOUR_EMAIL
+📧 **Email:** amitmehta0716@gmail.com
 
 ---
 
